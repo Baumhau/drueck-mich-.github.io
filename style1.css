@@ -1,0 +1,41 @@
+.buttons {
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+  
+  
+}
+.JB {
+  background-color: green;
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: 200px;
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+  
+  
+}
+.MB {
+  background-color: pink;
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: 200px;
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+}
+.h1 { 
+  color: black;
+  font-size: 70px;
+  padding: 70px;
+
+
+
+
+
+}

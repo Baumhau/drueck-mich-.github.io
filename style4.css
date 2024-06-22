@@ -1,0 +1,31 @@
+.Boxen { 
+font-size: 70px;
+padding: 70px;
+background-color: yellow;
+}
+.Eis { 
+    font-size: 70px;
+    padding: 70px;
+    background-color: green;
+}
+.Küssen { 
+    font-size: 70px;
+    padding: 70px;
+    background-color: red;
+}
+
+.Wehtun { 
+    font-size: 70px;
+    padding: 70px;
+    background-color: darkblue;
+}
+.BUTTONS { 
+display: flex;
+justify-content: center;
+padding: auto;
+}
+.H1 { 
+font-size: 30px;
+color: black;
+padding-right: 100px;
+}
